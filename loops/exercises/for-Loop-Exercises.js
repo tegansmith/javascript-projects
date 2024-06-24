@@ -63,4 +63,3 @@ for (let i = 0; i< otherArr.length; i++) {
 }
 console.log(evens);
 console.log(odds);
-
